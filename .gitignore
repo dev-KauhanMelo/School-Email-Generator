@@ -1,0 +1,15 @@
+# Banco de dados (Privacidade e Segurança)
+database/banco.db
+
+# Planilhas com dados reais (LGPD)
+sheets/ENTURMAÇÃO*.xlsx
+exports/*.xlsx
+
+# Python e Ambiente Virtual
+__pycache__/
+*.pyc
+venv/
+.env
+
+# VS Code
+.vscode/
